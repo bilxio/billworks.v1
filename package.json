@@ -1,0 +1,31 @@
+{
+  "name": "billworks.cc",
+  "version": "1.0.1",
+  "description": "Home Page of BillWorks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:haibxz/billworks.cc.git"
+  },
+  "keywords": [
+    "billworks",
+    "web"
+  ],
+  "author": "Bill Xiong",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^1.10.1",
+    "grunt": "~0.4.1",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-connect": "~0.4.x",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-stylus": "~0.14.0",
+    "grunt-contrib-uglify": "~0.2.4"
+  }
+}
